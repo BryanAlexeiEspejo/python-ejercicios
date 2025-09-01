@@ -678,7 +678,7 @@ print(resultado)
 #2
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 from openai import OpenAI
 
